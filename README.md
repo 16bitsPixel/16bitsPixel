@@ -4,7 +4,7 @@
     <table class="images" width="100%"  style="border:0px solid white; width:100%;">
         <tr style="border: 0px;">
             <td width="33%" style="border:0px; width:33.33%">
-                <img src="https://media.licdn.com/dms/image/v2/D5603AQHsaD4b2VtqVw/profile-displayphoto-shrink_800_800/B56ZQvCUB5H0Ac-/0/1735955923432?e=1742428800&v=beta&t=DAzlrLxbOisutA8gzzTQK2CS9p4pZzqOzs9Yd_vlR04" />
+                <img src="photo_2025-01-14_16-24-11.jpg" />
             </td>
             <td width="66%" style="border:0px; width:66.66% top:0 text-align:bottom">
               <h1>Brandon Llanes</h1>
